@@ -1,0 +1,22 @@
+﻿FIELD ,DESCRIPTION
+YEARLYKM ,Average Annual Kilometres
+LICCANCNT ,Conviction or Suspension in last 5 years
+OWNERAGE ,Age of Owner
+MVINSURER ,"Other Insurance Provider (If MVINSTYPE = N, the value of this field is NONE)"
+REGUSE ,Registration Use Type
+MAKE ,Vehicle Manufacturer
+MVINSYEARS ,Years Insured with Other Insurance
+MANUFYEAR,Year of Manufacture
+YDAGE Age ,Youngest Driver
+MODEL ,Vehicle Model
+ATFAULTACCDS, At fault in last 2 years
+NRMAASST ,NRMA assist years
+NOYRLICOBT ,Drivers licence years
+MVINSTYPE ,Other Insurance on Vehicle
+DEMERITPTS ,Demerit Points
+NCBPCT ,No-claim Discount Percentage
+COMREGVEH ,Company Owned Flag
+YDGENDER,Driver Gender
+ATFAULT5YRS ,At fault in last 5 years
+SHAPE ,Vehicle Shape
+VEHAGE ,Vehicle Age
